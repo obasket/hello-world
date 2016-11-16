@@ -1,4 +1,4 @@
 # hello-world
 Hi Coders!
 
-This is obasket, I know nothing about coding but I'm now learning i. Hopefully I could learn something cool!
+This is obasket, I know nothing about coding but I'm now learning it. Hopefully I could learn something cool!
